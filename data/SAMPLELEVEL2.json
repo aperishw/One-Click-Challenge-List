@@ -1,16 +1,17 @@
 {
     "id": 57436521,
-    "name": "SAMPLELEVEL2",
-    "author": "Solo_Creator",
-    "creators": ["llose"],
-    "verifier": "Solo_Creator",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": "100",
-    "password": "Free To Copy",
+    "name": "one click",
+    "author": "Llose",
+    "creators": ["Llose"],
+    "verifier": "Llose",
+    "verification": "https://youtu.be/BiNXvDDt-Vc",
+    "percentToQualify": 100,
     "records": [
+        {
             "user": "Sample_Victor_1",
             "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
             "percent": 100,
             "hz": 360
+        }
     ]
 }
